@@ -9,6 +9,12 @@
   <a href="https://www.jetbrains.com/zh-cn/idea/" target="_blank" rel="noreferrer"> 
     <img src="https://resources.jetbrains.com/storage/logos/web/intellij-idea/intellij-idea.svg" alt="idea" width="40" height="40"/> 
   </a> 
+  <a href="https://www.jetbrains.com/zh-cn/datagrip/" target="_blank" rel="noreferrer"> 
+    <img src="https://resources.jetbrains.com/storage/logos/web/datagrip/datagrip.svg" alt="idea" width="40" height="40"/> 
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="idea" width="40" height="40"/> 
+  </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
