@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Changpeng wang / sunl19ht</h1>
+<h1 align="center">Hi 👋, I'm Changpeng Wang / sunl19ht</h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -11,6 +11,9 @@
   </a> 
   <a href="https://www.jetbrains.com/zh-cn/datagrip/" target="_blank" rel="noreferrer"> 
     <img src="https://resources.jetbrains.com/storage/logos/web/datagrip/datagrip.svg" alt="idea" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.jetbrains.com/zh-cn/webstorm/" target="_blank" rel="noreferrer"> 
+    <img src="https://resources.jetbrains.com/storage/logos/web/webstorm/webstorm.svg" alt="idea" width="40" height="40"/> 
   </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="idea" width="40" height="40"/> 
